@@ -1,34 +1,49 @@
-# Color Picker Online - The Ultimate Web Color Selection Tool
+# 🎨 Color Picker Tool – PickColorOnline.info
 
-![Color Picker Online Screenshot](https://pickcoloronline.info/screenshot.jpg)  
-*(Replace with actual screenshot URL)*
+A free, fast, and easy-to-use **online color picker tool** to extract, select, and convert colors in multiple formats (HEX, RGB, HSL) directly from your browser. Whether you're a **web designer**, **UI/UX developer**, **graphic artist**, or just working on a creative project — this tool helps you choose the perfect color with precision.
 
-## 🌈 About Color Picker Online
+🌐 **Live Demo:** [https://pickcoloronline.info](https://pickcoloronline.info)
 
-Color Picker Online is a free, intuitive web-based tool that helps designers, developers, and digital artists easily select, convert, and work with color codes. Our tool supports HEX, RGB, HSL, and CMYK color formats with real-time conversion.
+---
 
-**Live Demo:** [https://pickcoloronline.info](https://pickcoloronline.info)
+## 🚀 Features
 
-## ✨ Key Features
+- ✅ **Real-Time Color Preview** – Instantly see your selected color with live preview.
+- 🎯 **HEX, RGB & HSL Formats** – Converts selected color into all popular formats.
+- 📋 **One-Click Copy** – Copy color codes with a single click.
+- 🖱️ **Eyedropper Tool Support** – Pick colors from anywhere on the screen (browser supported).
+- 🧩 **Lightweight & Fast** – No ads, no bloat, just clean and fast performance.
+- 🧪 **Browser Compatible** – Works seamlessly on all major browsers and devices.
 
-- **Multi-format Color Codes:** Get HEX, RGB, HSL, and CMYK values simultaneously
-- **Eye Dropper Tool:** Extract colors from any image or webpage
-- **Color Palette Generator:** Create harmonious color schemes
-- **Contrast Checker:** Ensure WCAG accessibility compliance
-- **Responsive Design:** Works perfectly on all devices
-- **No Installation:** 100% web-based - no downloads required
-- **Completely Free:** No subscriptions or hidden costs
+---
 
-## 🚀 How to Use
+## 📸 Screenshot
 
-1. Visit [https://pickcoloronline.info](https://pickcoloronline.info)
-2. Use the color wheel or sliders to select your color
-3. Alternatively, use the eye dropper to pick colors from your screen
-4. Copy the color code in your preferred format (HEX, RGB, etc.)
-5. Use the palette generator to create matching color schemes
+![Color Picker Tool Preview](https://pickcoloronline.info/assets/screenshot.png) <!-- Replace with your actual screenshot path if different -->
 
-```html
-<!-- Example of using a selected color -->
-<div style="color: #3a7bd5; background: linear-gradient(to right, #00d2ff, #3a7bd5);">
-    Gradient Example
-</div>
+---
+
+## 🌍 SEO Keywords (Targeted)
+
+> This project and its landing page are optimized for search engines using the following focus keywords:
+
+- Online Color Picker Tool
+- Free HEX Color Picker
+- HTML Color Picker Online
+- RGB to HEX Converter
+- HSL Color Tool
+- Pick Color from Screen
+- Web Color Picker Tool
+- Color Picker Chrome Alternative
+- Design Color Picker Tool
+
+---
+
+## 📦 Installation (For Developers)
+
+Want to use the color picker logic in your own project?
+
+```bash
+git clone https://github.com/yourusername/color-picker-tool.git
+cd color-picker-tool
+open index.html

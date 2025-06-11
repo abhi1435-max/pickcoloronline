@@ -21,23 +21,6 @@ A free, fast, and easy-to-use **online color picker tool** to extract, select, a
 
 ![Color Picker Tool Preview](https://pickcoloronline.info/assets/screenshot.png) <!-- Replace with your actual screenshot path if different -->
 
----
-
-## 🌍 SEO Keywords (Targeted)
-
-> This project and its landing page are optimized for search engines using the following focus keywords:
-
-- Online Color Picker Tool
-- Free HEX Color Picker
-- HTML Color Picker Online
-- RGB to HEX Converter
-- HSL Color Tool
-- Pick Color from Screen
-- Web Color Picker Tool
-- Color Picker Chrome Alternative
-- Design Color Picker Tool
-
----
 
 ## 📦 Installation (For Developers)
 
